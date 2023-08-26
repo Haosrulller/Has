@@ -69,13 +69,10 @@
 | stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
 | stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
 | stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+
 
 --- -->
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/Haosrulller/badges/large)
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=[Haosrulller](https://www.codewars.com/users/Haosruller/stats)https://www.codewars.com/users/Haosruller/stats)
+![codewars](https://[www.codewars.com/users/Haosrulller](https://www.codewars.com/users/Haosruller/stats)https://www.codewars.com/users/Haosruller/stats/badges/large)
