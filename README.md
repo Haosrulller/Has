@@ -75,4 +75,4 @@
 
 ### 💻 Codewars:
 
-![codewars](https://[www.codewars.com/users/Haosrulller](https://www.codewars.com/users/Haosruller/stats)https://www.codewars.com/users/Haosruller/stats/badges/large)
+![codewars](https://www.codewars.com/users/Haosruller/stats)
