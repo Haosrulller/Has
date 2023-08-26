@@ -7,7 +7,7 @@
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Закончил интенсивный курс по веб-разработке от Школы 21 Сбер и успешно завершил(а) обучение на курсах Яндекс Практикум по веб-разработке. Активно развиваю свои навыки, помогая новичкам в освоении веб-разработки. Мои знания охватывают язык PHP и разработку для CMS, и я стремлюсь применить их на практике в динамичной команде.
 
 
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nazarkolesovv@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nazarkolesovv@gmail.com )
 
 ---
 
