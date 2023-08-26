@@ -78,4 +78,4 @@
 ![codewars](https://www.codewars.com/users/Haosrulller/badges/large)
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Haosrulller)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=[Haosrulller](https://www.codewars.com/users/Haosruller/stats)https://www.codewars.com/users/Haosruller/stats)
